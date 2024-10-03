@@ -1,4 +1,4 @@
-![329453640-3a0d534c-8a11-48f1-8655-4866b7587c54](https://github.com/user-attachments/assets/e9bd9114-65b8-4700-a070-43aac0dceee0)# EX-08 THRESHOLDING
+# EX-08 THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
