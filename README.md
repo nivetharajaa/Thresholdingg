@@ -1,4 +1,4 @@
-![329453443-896a5060-0d4a-4627-b8b0-d7c994026727-1](https://github.com/user-attachments/assets/8bfa338d-b488-4dd7-926b-e211bd521b59)# THRESHOLDING
+![329453640-3a0d534c-8a11-48f1-8655-4866b7587c54](https://github.com/user-attachments/assets/e9bd9114-65b8-4700-a070-43aac0dceee0)# EX-08 THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -23,8 +23,8 @@ Use Global thresholding to segment the image.
 Use Otsu's method to segment the image and display the results.
 
 ## Program
-NAME: Nivetha A
-REG NO:212222230101
+### NAME: Nivetha A
+### REG NO:212222230101
 ```
 # Load the necessary packages
 
@@ -83,19 +83,21 @@ for i in range(0,9):
 
 ![329453547-1a03e9e5-b47c-4d5c-8ff1-eb5c4d8bb3ea-1](https://github.com/user-attachments/assets/5f59ab8a-9d56-4244-a286-9bf375381131)
 
+![329453640-3a0d534c-8a11-48f1-8655-4866b7587c54](https://github.com/user-attachments/assets/b3ca8c27-d762-4ede-9c8f-82a86b05f123)
+
+![329453839-c65b8a57-b438-4522-a1d1-6a20e36b93c6](https://github.com/user-attachments/assets/55b6a168-17d9-4a86-b94a-8aee5fcf7bda)
+
+![329453979-dffff962-4142-4c08-abf8-d13db895829f](https://github.com/user-attachments/assets/459328a5-caee-4115-815e-b46ae9e02b45)
+
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+![329455799-a5829b2f-2ae8-4ccf-91e9-5859f1231a66](https://github.com/user-attachments/assets/68ddf30b-1daf-4f02-8add-a1c9b9982055)
+
+![329455878-347cb803-cc31-4272-af0b-c2cad83c57bc](https://github.com/user-attachments/assets/3aa99ec8-89f8-4ea8-8ff9-e3f31f92e4d6)
+
 
 ### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![329454117-962144c1-fd6a-4b60-bdc7-bda5b413236d](https://github.com/user-attachments/assets/ea22f909-ca01-4ebb-b42e-69b2a5f1db21)
 
 
 ## Result
